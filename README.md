@@ -1,5 +1,5 @@
 ## Overview
-This project was presented as my Thesis in my Bachelor's degree. It implements a semantic hate speech detection system based on vector embeddings and information retrieval.
+This project was presented as my Thesis during my Bachelor's degree. It implements a semantic hate speech detection system based on vector embeddings and information retrieval.
 
 A vector database is built using **FAISS** to efficiently index and retrieve semantic representations of text generated with **Sentence Transformers**. Two different classification strategies are implemented and compared:
 
